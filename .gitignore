@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pytest cache
+.pytest_cache/
+
+# VSCode settings
+.vscode/
+
+# Mac OS metadata
+.DS_Store
+
+# Model files
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+
+# Logs
+*.log
+
+# Saved model directories
+saved_model/
+models/
+
+# TensorBoard logs
+logs/
+
+# Other
+*.zip
+*.tar.gz
+*.tar
